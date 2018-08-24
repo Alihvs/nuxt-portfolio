@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ali Havasi",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
